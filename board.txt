@@ -1,0 +1,16 @@
+GO 0 NONE
+Detroit 3500 GREEN
+AnnArbor 4000 GREEN
+GrandRapids 3000 GREEN
+Novi 3200 YELLOW
+Troy 2800 YELLOW
+Arcadia 2500 YELLOW
+Parking 0 NONE
+Dearborn 2200 BLUE
+GrandHaven 2000 BLUE
+Kentwood 1800 BLUE
+Lansing 1500 BLUE
+Livonia 2200 RED
+Monroe 2000 RED
+Parking 0 NONE
+Saline 3000 RED
